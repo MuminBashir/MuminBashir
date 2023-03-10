@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mumin Bashir</h1><br><h3 align="center">A passionate full-stack developer from India</h3><br><img align="right" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif" alt="Coding" width="400"><br><br><p align="left"> <img src="https://komarev.com/ghpvc/?username=muminbashir&label=Profile%20views&color=0e75b6&style=flat" alt="muminbashir" /> </p><br><br>- 🌱 I’m currently learning --  MERN Stack, Next.JS  <br><br>- 💬 Ask me about --  JavaScript, Competitive programming  <br><br>- 📫 How to reach me -- belikemumin@gmail.com  <br><br>- ⚡ Fun fact --  I am also a writer  
 
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mumin_bashir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mumin-bashir) 
 
