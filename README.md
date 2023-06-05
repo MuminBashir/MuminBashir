@@ -1,5 +1,5 @@
 # 💫 About Me: 
-<h1 align="center">Hi 👋, I'm Mumin Bashir</h1><br><h3 align="center">A passionate full-stack developer from India</h3><br><img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"><br><br><p align="left"> <img src="https://komarev.com/ghpvc/?username=muminbashir&label=Profile%20views&color=0e75b6&style=flat" alt="muminbashir" /> </p><br><br>- 🌱 I’m currently learning --  MERN Stack, Next.JS  <br><br>- 💬 Ask me about --  JavaScript, Competitive programming  <br><br>- 📫 How to reach me -- belikemumin@gmail.com  <br><br>- ⚡ Fun fact --  I am also a writer  
+<h1 align="center">Hi 👋, I'm Mumin Bashir Baba</h1><br><h3 align="center">A passionate full-stack developer from India</h3><br><img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"><br><br><p align="left"> <img src="https://komarev.com/ghpvc/?username=muminbashir&label=Profile%20views&color=0e75b6&style=flat" alt="muminbashir" /> </p><br><br>- 🌱 I’m currently learning --  MERN Stack, Next.JS  <br><br>- 💬 Ask me about --  Web Development, Competitive programming  <br><br>- 📫 How to reach me -- belikemumin@gmail.com  <br><br>- ⚡ Fun fact --  I am also a writer  
 
 
 
